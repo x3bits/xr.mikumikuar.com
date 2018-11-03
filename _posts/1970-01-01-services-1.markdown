@@ -1,0 +1,8 @@
+---
+layout: default
+img: play-mmd.jpg
+category: Services
+title: 播放MMD模型、动作
+description: |
+---
+  MikuMikuXR可以在手机上直接播放MMD的模型、动作。

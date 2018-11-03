@@ -1,0 +1,8 @@
+---
+layout: default
+img: play-pyramid.jpg
+category: Services
+title: 全息金字塔模式
+description: |
+---
+MikuMikuXR可以直接将MMD播放成全息金字塔需要的4分屏动画,配合全息金字塔,就可以把喜欢的角色召唤出来啦。

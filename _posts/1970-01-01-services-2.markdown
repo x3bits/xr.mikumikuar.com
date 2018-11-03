@@ -1,0 +1,8 @@
+---
+layout: default
+img: play-ar.jpg
+category: Services
+title: AR模式
+description: |
+---
+  MikuMikuXR支持AR播放,你可以看喜欢的角色在真实的世界里跳舞。

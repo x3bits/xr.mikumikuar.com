@@ -1,0 +1,8 @@
+---
+layout: default
+img: play-vr.jpg
+category: Services
+title: VR模式
+description: |
+---
+使用VR模式,配合VR眼镜,你可以沉浸在MMD创造的虚拟场景里,仿佛喜欢的角色就站在你眼前。
