@@ -1,6 +1,6 @@
 ---
 layout: default
-img: play-vr.jpg
+img: https://ws3.sinaimg.cn/large/005BYqpgly1g261pkgecbj30m80cidh5.jpg
 category: Services
 title: VR模式
 description: |
