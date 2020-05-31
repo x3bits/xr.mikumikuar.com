@@ -1,6 +1,6 @@
 ---
 layout: default
-img: https://ws3.sinaimg.cn/large/005BYqpgly1g261oikhzoj30zk0k0dic.jpg
+img: play-mmd.jpg
 category: Services
 title: 播放MMD模型、动作
 description: |

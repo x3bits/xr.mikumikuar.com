@@ -1,6 +1,6 @@
 ---
 layout: default
-img: https://ws3.sinaimg.cn/large/005BYqpgly1g261pstg8aj30m80cit9b.jpg
+img: play-pyramid.jpg
 category: Services
 title: 全息金字塔模式
 description: |

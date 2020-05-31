@@ -1,6 +1,6 @@
 ---
 layout: default
-img: https://ws3.sinaimg.cn/large/005BYqpgly1g261p6gxqej30m80cijti.jpg
+img: play-ar.jpg
 category: Services
 title: AR模式
 description: |
