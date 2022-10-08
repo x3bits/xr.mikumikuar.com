@@ -1,6 +1,6 @@
 ---
 layout: default
-img: play-mmd.jpg
+img: img/services/play-mmd.jpg
 category: Services
 title: 播放MMD模型、动作
 description: |

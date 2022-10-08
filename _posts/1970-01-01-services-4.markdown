@@ -1,6 +1,6 @@
 ---
 layout: default
-img: play-pyramid.jpg
+img: img/services/play-pyramid.jpg
 category: Services
 title: 全息金字塔模式
 description: |

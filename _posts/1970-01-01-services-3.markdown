@@ -1,6 +1,6 @@
 ---
 layout: default
-img: play-vr.jpg
+img: img/services/play-vr.jpg
 category: Services
 title: VR模式
 description: |
